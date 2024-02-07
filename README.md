@@ -1,4 +1,4 @@
-#Introduction to CSS Essentials
+# Introduction to CSS Essentials
 
 Welcome to Sil's CSS, your go-to resource for CSS essentials! Whether you're a beginner or an experienced developer, our website offers a concise collection of CSS tips, tricks, and techniques to streamline your workflow and enhance your projects.
 
