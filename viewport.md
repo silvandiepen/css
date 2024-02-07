@@ -1,3 +1,7 @@
+---
+title: Viewport
+---
+
 # Understanding CSS Viewport Units: A Comprehensive Guide with Examples
 
 Viewport units in CSS provide a powerful way to create responsive designs that adapt seamlessly to various screen sizes and orientations. These units allow developers to specify lengths and sizes relative to the viewport's dimensions, ensuring consistent layout regardless of the device being used. In this guide, we'll explore all viewport units, including the latest modifiers for small, large, and dynamic viewport sizes, along with practical examples.
